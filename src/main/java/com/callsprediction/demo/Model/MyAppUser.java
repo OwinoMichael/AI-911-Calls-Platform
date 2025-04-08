@@ -3,6 +3,9 @@ package com.callsprediction.demo.Model;
 import jakarta.persistence.*;
 import lombok.Data;
 
+import java.util.HashSet;
+import java.util.Set;
+
 @Entity
 @Table(name = "users")
 @Data
@@ -21,16 +24,29 @@ public class MyAppUser {
     @Column(name = "password")
     private String password;
 
+    @ElementCollection(fetch = FetchType.EAGER)
+    @CollectionTable(name = "user_roles", joinColumns = @JoinColumn(name = "user_id"))
+    @Column(name = "role")
+    private Set<String> roles = new HashSet<>();
 
 
     public MyAppUser() {
     }
 
-    public MyAppUser(int id, String username, String email, String password) {
+    public MyAppUser(int id, String username, String email, String password, Set<String> roles) {
         this.id = id;
         this.username = username;
         this.email = email;
         this.password = password;
+        this.roles = roles;
+    }
+
+    public Set<String> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(Set<String> roles) {
+        this.roles = roles;
     }
 
     public int getId() {

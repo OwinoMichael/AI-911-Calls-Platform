@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Set;
 
 
 @RestController
@@ -22,6 +23,20 @@ public class RegistrationController {
     @PostMapping(value = "/req/signup", consumes = "application/json")
     public MyAppUser createUser(@RequestBody MyAppUser user){
         user.setPassword(passwordEncoder.encode(user.getPassword()));
+        return myAppUserRepository.save(user);
+    }
+
+    @PostMapping(value = "/admin/signup", consumes = "application/json")
+    public MyAppUser registerAdmin(@RequestBody MyAppUser user) {
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
+        user.setRoles(Set.of("ADMIN"));
+        return myAppUserRepository.save(user);
+    }
+
+    @PostMapping(value = "/superadmin/signup", consumes = "application/json")
+    public MyAppUser registerSuperAdmin(@RequestBody MyAppUser user) {
+        user.setPassword(passwordEncoder.encode(user.getPassword()));
+        user.setRoles(Set.of("SUPER_ADMIN"));
         return myAppUserRepository.save(user);
     }
 
