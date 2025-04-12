@@ -1,39 +1,149 @@
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Login</title>
   <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
   <link rel="stylesheet" href="/css/style.css">
-  <script src="/js/signup.js" defer></script>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f7f7f7;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      color: black;
+    }
+
+    section {
+      background: rgba(255, 255, 255, 0.8);
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 450px;
+      margin: 10px;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 25px;
+      color: black;
+    }
+
+    .inputbox {
+      position: relative;
+      margin-bottom: 20px;
+    }
+
+    .inputbox ion-icon {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #888;
+      width: 20px;
+      height: 20px;
+    }
+
+    .inputbox input {
+      width: 100%;
+      padding: 12px 15px 12px 35px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      outline: none;
+      font-size: 16px;
+      color: black;
+      transition: border-color 0.3s ease;
+    }
+
+    .inputbox input:focus {
+      border-color: #4CAF50;
+    }
+
+    .inputbox label {
+      position: absolute;
+      top: -15px;
+      left: 45px;
+      font-size: 12px;
+      color: #888;
+      pointer-events: none;
+    }
+
+    button {
+      width: 100%;
+      padding: 12px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    .register {
+      text-align: center;
+      margin-top: 15px;
+    }
+
+    .register a {
+      color: black;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .register a:hover {
+      text-decoration: underline;
+    }
+
+    .dialog-row {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    .redText {
+      color: red;
+      font-size: 14px;
+      margin-top: 5px;
+    }
+  </style>
 </head>
 <body>
-<body>
 <section>
-
-  <form action="/req/login" method="post">
+  <form action="/login" method="post">
     <h1>Login</h1>
+
     <div class="dialog-row">
-      <label th:if="${param.error}" th:text="${session['SPRING_SECURITY_LAST_EXCEPTION'].message}" class="text-center redText"></label>
+      <label class="redText" th:if="${param.error}" th:text="${session['SPRING_SECURITY_LAST_EXCEPTION'].message}"></label>
     </div>
+
     <div class="inputbox">
-      <ion-icon name="email-outline"></ion-icon>
-      <input name="username" id="username"type="name" required>
-      <label for="">username</label>
+      <ion-icon name="person-outline"></ion-icon>
+      <input type="text" id="username" name="username" placeholder="Enter your username" required />
+      <label for="username">Username</label>
     </div>
+
     <div class="inputbox">
       <ion-icon name="lock-closed-outline"></ion-icon>
-      <input name="password" type="password" id="password" required>
-      <label for="">Password</label>
+      <input type="password" id="password" name="password" placeholder="Enter your password" required />
+      <label for="password">Password</label>
     </div>
+
+    <button type="submit">Log In</button>
+
     <div class="register">
-      <p><a href="#">Forget Password ?</a></p>
-    </div>
-    <button>Log in</button>
-    <div class="register">
-      <p>Don't have a account ?<a href="/req/signup"> Register!!</a></p>
+      <p>Don't have an account? <a href="/signup">Sign Up</a></p>
     </div>
   </form>
 </section>
 </body>
+</html>

@@ -3,32 +3,25 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>ADMIN DASHBOARD</title>
+    <title>GENERAL USER DASHBOARD</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900 p-6">
 <div class="max-w-6xl mx-auto space-y-10">
 
     <header class="text-center">
-        <h1 class="text-4xl font-bold">ADMIN DASHBOARD</h1>
+        <h1 class="text-4xl font-bold">GENERAL USER DASHBOARD</h1>
     </header>
 
-    <!-- Job Creation -->
+    <!-- Jobs List (Only COMPLETED) -->
     <section class="bg-white rounded-xl p-6 shadow">
-        <h2 class="text-2xl font-semibold mb-4">Create New Job</h2>
-        <button onclick="createJob()" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Create Job</button>
-    </section>
-
-    <!-- Jobs List -->
-    <section class="bg-white rounded-xl p-6 shadow">
-        <h2 class="text-2xl font-semibold mb-4">Jobs List</h2>
+        <h2 class="text-2xl font-semibold mb-4">Completed Jobs</h2>
         <div class="overflow-x-auto">
             <table class="min-w-full divide-y divide-gray-200 text-sm">
                 <thead class="bg-gray-100">
                 <tr>
                     <th class="px-4 py-2 text-left font-medium text-gray-700">ID</th>
                     <th class="px-4 py-2 text-left font-medium text-gray-700">Status</th>
-                    <th class="px-4 py-2 text-left font-medium text-gray-700">Actions</th>
                 </tr>
                 </thead>
                 <tbody id="jobsTable" class="divide-y divide-gray-100">
@@ -53,33 +46,8 @@
 <script>
     const apiBase = "/api";
 
-    function createJob() {
-        fetch(`${apiBase}/jobs/create`, {
-            method: 'POST',
-        })
-            .then(res => res.json())
-            .then(data => {
-                alert(`Job created with ID: ${data.id}`);
-                loadJobs();
-            });
-    }
-
-    function runJob(jobId) {
-        fetch(`${apiBase}/jobs/${jobId}/run`, {
-            method: 'POST',
-        })
-            .then(response => {
-                if (response.ok) {
-                    alert("Notebook execution started!");
-                    loadJobs();
-                } else {
-                    alert("Failed to start notebook. Maybe job already running or completed.");
-                }
-            });
-    }
-
     function loadJobs() {
-        fetch(`${apiBase}/jobs`)
+        fetch(`${apiBase}/jobs?status=COMPLETED`)
             .then(res => res.json())
             .then(data => {
                 const tableBody = document.querySelector("#jobsTable");
@@ -89,11 +57,6 @@
                     row.innerHTML = `
               <td class="px-4 py-2">${job.id}</td>
               <td class="px-4 py-2">${job.status}</td>
-              <td class="px-4 py-2">
-                ${job.status === "PENDING"
-                        ? `<button onclick="runJob(${job.id})" class="bg-indigo-600 text-white px-3 py-1 rounded hover:bg-indigo-700">Run</button>`
-                        : ""}
-              </td>
             `;
                     tableBody.appendChild(row);
                 });
@@ -128,7 +91,6 @@
         const otherResults = results.filter(r => !r.fileType.startsWith("image"));
 
         imageResults.sort((a, b) => parseInt(a.filename) - parseInt(b.filename));
-
         const sortedResults = [...imageResults, ...otherResults];
 
         sortedResults.forEach(result => {

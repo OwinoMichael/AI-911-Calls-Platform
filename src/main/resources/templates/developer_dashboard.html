@@ -3,21 +3,15 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>ADMIN DASHBOARD</title>
+    <title>DEVELOPER DASHBOARD</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900 p-6">
 <div class="max-w-6xl mx-auto space-y-10">
 
     <header class="text-center">
-        <h1 class="text-4xl font-bold">ADMIN DASHBOARD</h1>
+        <h1 class="text-4xl font-bold">DEVELOPER DASHBOARD</h1>
     </header>
-
-    <!-- Job Creation -->
-    <section class="bg-white rounded-xl p-6 shadow">
-        <h2 class="text-2xl font-semibold mb-4">Create New Job</h2>
-        <button onclick="createJob()" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Create Job</button>
-    </section>
 
     <!-- Jobs List -->
     <section class="bg-white rounded-xl p-6 shadow">
@@ -52,17 +46,6 @@
 
 <script>
     const apiBase = "/api";
-
-    function createJob() {
-        fetch(`${apiBase}/jobs/create`, {
-            method: 'POST',
-        })
-            .then(res => res.json())
-            .then(data => {
-                alert(`Job created with ID: ${data.id}`);
-                loadJobs();
-            });
-    }
 
     function runJob(jobId) {
         fetch(`${apiBase}/jobs/${jobId}/run`, {

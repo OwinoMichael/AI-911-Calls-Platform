@@ -1,10 +1,9 @@
-package com.callsprediction.demo.Model;
+package com.callsprediction.demo.model;
 
 import jakarta.persistence.*;
+import org.springframework.security.core.userdetails.User;
+import org.springframework.security.core.userdetails.UserDetails;
 import lombok.Data;
-
-import java.util.HashSet;
-import java.util.Set;
 
 @Entity
 @Table(name = "users")
@@ -15,7 +14,7 @@ public class MyAppUser {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
-    @Column(name = "username")
+    @Column(name = "username", unique = true)
     private String username;
 
     @Column(name = "email")
@@ -24,29 +23,19 @@ public class MyAppUser {
     @Column(name = "password")
     private String password;
 
-    @ElementCollection(fetch = FetchType.EAGER)
-    @CollectionTable(name = "user_roles", joinColumns = @JoinColumn(name = "user_id"))
+    @Enumerated(EnumType.STRING)
     @Column(name = "role")
-    private Set<String> roles = new HashSet<>();
+    private MyAppUserRole role;
 
-
+    // Constructors, Getters, Setters
     public MyAppUser() {
     }
 
-    public MyAppUser(int id, String username, String email, String password, Set<String> roles) {
-        this.id = id;
+    public MyAppUser(String username, String email, String password, MyAppUserRole role) {
         this.username = username;
         this.email = email;
         this.password = password;
-        this.roles = roles;
-    }
-
-    public Set<String> getRoles() {
-        return roles;
-    }
-
-    public void setRoles(Set<String> roles) {
-        this.roles = roles;
+        this.role = role;
     }
 
     public int getId() {
@@ -61,8 +50,8 @@ public class MyAppUser {
         return username;
     }
 
-    public void setUsername(String name) {
-        this.username = name;
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public String getEmail() {
@@ -81,5 +70,19 @@ public class MyAppUser {
         this.password = password;
     }
 
+    public MyAppUserRole getRole() {
+        return role;
+    }
 
+    public void setRole(MyAppUserRole role) {
+        this.role = role;
+    }
+
+    public UserDetails toUserDetails() {
+        return User.builder()
+                .username(this.username)
+                .password(this.password)
+                .roles(this.role.name())
+                .build();
+    }
 }
