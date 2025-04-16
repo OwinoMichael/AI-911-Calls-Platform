@@ -19,5 +19,5 @@ target/
 # === MacOS ===
 .DS_Store
 
-# === Output files ===
-
+# Ignore raw data files
+src/data/
