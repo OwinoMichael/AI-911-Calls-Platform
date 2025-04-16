@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+papermill
+pyECLAT
+mlxtend
+fpgrowth_py

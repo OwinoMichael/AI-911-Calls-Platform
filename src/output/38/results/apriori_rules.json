@@ -1,0 +1,7360 @@
+[
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.04257643231823693,
+        "confidence": 0.15692012109184908,
+        "lift": 1.0131306028994063
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.04257643231823693,
+        "confidence": 0.27488818032859486,
+        "lift": 1.0131306028994063
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.039705879831196424,
+        "confidence": 0.14634038438446031,
+        "lift": 1.0010122408191409
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.039705879831196424,
+        "confidence": 0.2716001595233068,
+        "lift": 1.0010122408191406
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.09821782246130156,
+        "confidence": 0.36199258028023035,
+        "lift": 1.1135176658611667
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.09821782246130156,
+        "confidence": 0.30212575166156774,
+        "lift": 1.1135176658611667
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.04067130459236954,
+        "confidence": 0.14989856345630012,
+        "lift": 1.0178298165067574
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.04067130459236954,
+        "confidence": 0.27616319687019697,
+        "lift": 1.0178298165067572
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.041959109202744344,
+        "confidence": 0.1546449088967117,
+        "lift": 1.02995875978681
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.041959109202744344,
+        "confidence": 0.27945408862494286,
+        "lift": 1.0299587597868098
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.09300830128111694,
+        "confidence": 0.3427923173668211,
+        "lift": 1.0281900607057164
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.09300830128111694,
+        "confidence": 0.2789741954398399,
+        "lift": 1.0281900607057164
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.08616115905844507,
+        "confidence": 0.3175564221024225,
+        "lift": 1.0139019084934684
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.08616115905844507,
+        "confidence": 0.2750974552144015,
+        "lift": 1.0139019084934684
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.05847593211503473,
+        "confidence": 0.5936596915149194,
+        "lift": 1.1359099629333973
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.05847593211503473,
+        "confidence": 0.11188799716514973,
+        "lift": 1.1359099629333973
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.015229018301915588,
+        "confidence": 0.1546081264579924,
+        "lift": 1.0152777304163305
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.015229018301915588,
+        "confidence": 0.10000563031360847,
+        "lift": 1.0152777304163305
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.013925780613653472,
+        "confidence": 0.1413773893666655,
+        "lift": 1.0551880425324796
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.013925780613653472,
+        "confidence": 0.10393682647758978,
+        "lift": 1.0551880425324796
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.01249393394299707,
+        "confidence": 0.12684098743079975,
+        "lift": 1.0684062622319916
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.01249393394299707,
+        "confidence": 0.10523883119321711,
+        "lift": 1.0684062622319916
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.014663138779380722,
+        "confidence": 0.1488632011420215,
+        "lift": 1.00043228349027
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.014663138779380722,
+        "confidence": 0.09854334247585683,
+        "lift": 1.0004322834902701
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.013497084005672514,
+        "confidence": 0.1370251732182027,
+        "lift": 1.1503348605693047
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.013497084005672514,
+        "confidence": 0.11330886057726913,
+        "lift": 1.1503348605693047
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.025169635247778065,
+        "confidence": 0.10743118124528826,
+        "lift": 1.0906634509339166
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.025169635247778065,
+        "confidence": 0.2555273145085477,
+        "lift": 1.0906634509339164
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.025553747408529004,
+        "confidence": 0.16498383596829191,
+        "lift": 1.0014516954271961
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.025553747408529004,
+        "confidence": 0.1551112175116838,
+        "lift": 1.0014516954271961
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.024452854519233902,
+        "confidence": 0.16726487906725784,
+        "lift": 1.0152976244262102
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.024452854519233902,
+        "confidence": 0.14842879893414382,
+        "lift": 1.01529762442621
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.024740938639797108,
+        "confidence": 0.1501774692161169,
+        "lift": 1.0092647968340562
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.024740938639797108,
+        "confidence": 0.16627100283495058,
+        "lift": 1.0092647968340562
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.05827358731606772,
+        "confidence": 0.17925414073214477,
+        "lift": 1.0880724290048165
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.05827358731606772,
+        "confidence": 0.3537206082874481,
+        "lift": 1.0880724290048165
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.024608900084538973,
+        "confidence": 0.1670974803222952,
+        "lift": 1.0142815142359523
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.024608900084538973,
+        "confidence": 0.14937599533687926,
+        "lift": 1.0142815142359523
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.05540303482902722,
+        "confidence": 0.16617889858710133,
+        "lift": 1.0087057241550672
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.05540303482902722,
+        "confidence": 0.33629635797778773,
+        "lift": 1.0087057241550672
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.05231298967870047,
+        "confidence": 0.1670261924576234,
+        "lift": 1.0138487969790162
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.05231298967870047,
+        "confidence": 0.31753978745329076,
+        "lift": 1.0138487969790164
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.019768057987217983,
+        "confidence": 0.1659540775930325,
+        "lift": 1.007341060978481
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.019768057987217983,
+        "confidence": 0.1199920893487244,
+        "lift": 1.007341060978481
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.17951241762594677,
+        "confidence": 0.34347951623804873,
+        "lift": 1.0047983683203705
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.17951241762594677,
+        "confidence": 0.5251369464454121,
+        "lift": 1.0047983683203705
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.053648808309169134,
+        "confidence": 0.3522999831090592,
+        "lift": 1.030601335603208
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.053648808309169134,
+        "confidence": 0.15694162971286393,
+        "lift": 1.0306013356032078
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.05317552725395815,
+        "confidence": 0.34331960497763603,
+        "lift": 1.0043305716514495
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.05317552725395815,
+        "confidence": 0.1555571161988081,
+        "lift": 1.0043305716514495
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.05039242887494577,
+        "confidence": 0.34469936894456565,
+        "lift": 1.008366866443705
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.05039242887494577,
+        "confidence": 0.14741557477376246,
+        "lift": 1.008366866443705
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.04616205074738967,
+        "confidence": 0.3445363094171552,
+        "lift": 1.0078898599867392
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.04616205074738967,
+        "confidence": 0.13504023115356062,
+        "lift": 1.0078898599867392
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.05105776601053222,
+        "confidence": 0.3431327356120497,
+        "lift": 1.003783913045176
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.05105776601053222,
+        "confidence": 0.1493619198587395,
+        "lift": 1.003783913045176
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.10738164115350254,
+        "confidence": 0.3428507292716044,
+        "lift": 1.0029589453328684
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.10738164115350254,
+        "confidence": 0.3141290607380059,
+        "lift": 1.0029589453328682
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.08046635331802601,
+        "confidence": 0.3434533437753885,
+        "lift": 1.004721804663638
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.08046635331802601,
+        "confidence": 0.23539237915604874,
+        "lift": 1.004721804663638
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.0672367759957336,
+        "confidence": 0.12865101811810564,
+        "lift": 1.0409517250400129
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.0672367759957336,
+        "confidence": 0.5440317455912754,
+        "lift": 1.0409517250400127
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.02122905602721709,
+        "confidence": 0.13940656494566747,
+        "lift": 1.127977892323204
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.02122905602721709,
+        "confidence": 0.1717702884575361,
+        "lift": 1.127977892323204
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.017104994658440266,
+        "confidence": 0.12766529295825124,
+        "lift": 1.0329759443538173
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.017104994658440266,
+        "confidence": 0.13840134308270782,
+        "lift": 1.0329759443538171
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.015796612610882377,
+        "confidence": 0.12781485438374982,
+        "lift": 1.0766093326447026
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.015796612610882377,
+        "confidence": 0.13305793479987868,
+        "lift": 1.0766093326447026
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.015525676354638411,
+        "confidence": 0.13033901965018355,
+        "lift": 1.0546098222116465
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.015525676354638411,
+        "confidence": 0.12562263260860518,
+        "lift": 1.0546098222116465
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.029197668576367155,
+        "confidence": 0.12462397622724643,
+        "lift": 1.008367791664142
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.029197668576367155,
+        "confidence": 0.23624658332523968,
+        "lift": 1.008367791664142
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.07664752393413163,
+        "confidence": 0.5242921153259671,
+        "lift": 1.003181866308713
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.07664752393413163,
+        "confidence": 0.14665756714723507,
+        "lift": 1.0031818663087133
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.07295901831906346,
+        "confidence": 0.5445388691222772,
+        "lift": 1.04192205649343
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.07295901831906346,
+        "confidence": 0.1395999711265249,
+        "lift": 1.0419220564934297
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.06957574468887773,
+        "confidence": 0.13312640676164292,
+        "lift": 1.1213495695165596
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.06957574468887773,
+        "confidence": 0.5860500050553927,
+        "lift": 1.1213495695165596
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.16464693404759903,
+        "confidence": 0.5256887565152643,
+        "lift": 1.0058542031108253
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.16464693404759903,
+        "confidence": 0.31503586216852925,
+        "lift": 1.0058542031108253
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.07693217848183098,
+        "confidence": 0.6458504282732311,
+        "lift": 1.2357718513249065
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.07693217848183098,
+        "confidence": 0.1472022258824456,
+        "lift": 1.2357718513249065
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.12825230681644756,
+        "confidence": 0.5474174211539448,
+        "lift": 1.047429885268615
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.12825230681644756,
+        "confidence": 0.24539828990281456,
+        "lift": 1.0474298852686148
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.020952975411677354,
+        "confidence": 0.15638518442675406,
+        "lift": 1.0269472811875364
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.020952975411677354,
+        "confidence": 0.1375936039637408,
+        "lift": 1.0269472811875364
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.019563998401819046,
+        "confidence": 0.12847249591802265,
+        "lift": 1.082148774963411
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.019563998401819046,
+        "confidence": 0.16479135672295006,
+        "lift": 1.082148774963411
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.04057184697931796,
+        "confidence": 0.17317221339852298,
+        "lift": 1.137184026598985
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.04057184697931796,
+        "confidence": 0.2664264399527054,
+        "lift": 1.137184026598985
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.05455764511808877,
+        "confidence": 0.35224303618086,
+        "lift": 1.0835273009196058
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.05455764511808877,
+        "confidence": 0.16782361008545207,
+        "lift": 1.0835273009196058
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.05319781947757317,
+        "confidence": 0.3434635312873655,
+        "lift": 1.0302033365195165
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.05319781947757317,
+        "confidence": 0.1595644548227319,
+        "lift": 1.0302033365195165
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.03686790828636247,
+        "confidence": 0.1573627467484465,
+        "lift": 1.0159883473059685
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.03686790828636247,
+        "confidence": 0.2380319737832691,
+        "lift": 1.0159883473059685
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.047551027757247975,
+        "confidence": 0.3252633307528093,
+        "lift": 1.0005356037124198
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.047551027757247975,
+        "confidence": 0.14627070366072373,
+        "lift": 1.0005356037124198
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.04877367048320967,
+        "confidence": 0.1557257675966887,
+        "lift": 1.0652110846293168
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.04877367048320967,
+        "confidence": 0.33362657470617213,
+        "lift": 1.0652110846293168
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.018036123690974907,
+        "confidence": 0.15141438134312243,
+        "lift": 1.1301004027337562
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.018036123690974907,
+        "confidence": 0.13461489236439964,
+        "lift": 1.1301004027337564
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.03556981495739613,
+        "confidence": 0.15182211422339656,
+        "lift": 1.133143568700676
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.03556981495739613,
+        "confidence": 0.2654798167251133,
+        "lift": 1.1331435687006757
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.017936666077923324,
+        "confidence": 0.15057942848916722,
+        "lift": 1.2683597598837004
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.017936666077923324,
+        "confidence": 0.15108402062600204,
+        "lift": 1.2683597598837002
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.030291702319934565,
+        "confidence": 0.12929362424703755,
+        "lift": 1.0890652982938074
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.030291702319934565,
+        "confidence": 0.25515288951800447,
+        "lift": 1.0890652982938074
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.05174025101043791,
+        "confidence": 0.15915708408059925,
+        "lift": 1.0696121260250133
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.05174025101043791,
+        "confidence": 0.347719362942817,
+        "lift": 1.0696121260250133
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.05106805472912376,
+        "confidence": 0.1531763217314824,
+        "lift": 1.0294185275531436
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.05106805472912376,
+        "confidence": 0.3432018807476894,
+        "lift": 1.0294185275531436
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.047635052292412244,
+        "confidence": 0.15209035959879114,
+        "lift": 1.0221203399026186
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.047635052292412244,
+        "confidence": 0.3201304538225736,
+        "lift": 1.0221203399026186
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.04976653182729357,
+        "confidence": 0.3379209165851614,
+        "lift": 1.0394713338883452
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.04976653182729357,
+        "confidence": 0.15308576854098535,
+        "lift": 1.0394713338883452
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.05182256075917025,
+        "confidence": 0.3451461854728186,
+        "lift": 1.0616968296174984
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.05182256075917025,
+        "confidence": 0.1594102753455006,
+        "lift": 1.0616968296174984
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.13147782009489628,
+        "confidence": 0.3943617781846798,
+        "lift": 1.2130878660803484
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.13147782009489628,
+        "confidence": 0.40443612195379264,
+        "lift": 1.2130878660803484
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.1036742728876832,
+        "confidence": 0.3310137532302571,
+        "lift": 1.0182243558129362
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.1036742728876832,
+        "confidence": 0.31891022259732044,
+        "lift": 1.0182243558129362
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.050277538184006876,
+        "confidence": 0.34139071305481816,
+        "lift": 1.0239860119285626
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.050277538184006876,
+        "confidence": 0.15080520308811202,
+        "lift": 1.0239860119285626
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.0480208792395951,
+        "confidence": 0.15332223730892208,
+        "lift": 1.0410769861182867
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.0480208792395951,
+        "confidence": 0.32606771924921985,
+        "lift": 1.0410769861182865
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.05186371563353642,
+        "confidence": 0.15556287064802005,
+        "lift": 1.0360725255334777
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.05186371563353642,
+        "confidence": 0.3454202832343536,
+        "lift": 1.0360725255334777
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.04871193817166041,
+        "confidence": 0.15552866716306776,
+        "lift": 1.0358447250892655
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.04871193817166041,
+        "confidence": 0.3244289629968022,
+        "lift": 1.0358447250892655
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.019713184821396418,
+        "confidence": 0.14898718264408184,
+        "lift": 1.0191171369351666
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.019713184821396418,
+        "confidence": 0.13484411288619888,
+        "lift": 1.0191171369351666
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.0180138314673599,
+        "confidence": 0.13614390689597075,
+        "lift": 1.0161272836047688
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.0180138314673599,
+        "confidence": 0.13444851153147158,
+        "lift": 1.0161272836047688
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.01720616705792377,
+        "confidence": 0.13003978693899768,
+        "lift": 1.0953503715093482
+    },
+    {
+        "antecedents": [
+            "0",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01720616705792377,
+        "confidence": 0.5562392593824492,
+        "lift": 1.0643096129617207
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "0",
+            "Sunday"
+        ],
+        "support": 0.01720616705792377,
+        "confidence": 0.03292232378977486,
+        "lift": 1.0643096129617207
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.01720616705792377,
+        "confidence": 0.1449308855603542,
+        "lift": 1.0953503715093484
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.019761198841490288,
+        "confidence": 0.14935006026360467,
+        "lift": 1.0141054118753725
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.019761198841490288,
+        "confidence": 0.13418098830981323,
+        "lift": 1.0141054118753725
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.04227462990621833,
+        "confidence": 0.31950078407485644,
+        "lift": 1.020109914937177
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.04227462990621833,
+        "confidence": 0.1349754719460383,
+        "lift": 1.020109914937177
+    },
+    {
+        "antecedents": [
+            "0",
+            "midnight"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01874433048735945,
+        "confidence": 0.6255579718438823,
+        "lift": 1.1969442136059492
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.01874433048735945,
+        "confidence": 0.14166483067871075,
+        "lift": 1.1892850738226302
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.01874433048735945,
+        "confidence": 0.15735982149283811,
+        "lift": 1.18928507382263
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "0",
+            "midnight"
+        ],
+        "support": 0.01874433048735945,
+        "confidence": 0.035865449605942686,
+        "lift": 1.1969442136059492
+    },
+    {
+        "antecedents": [
+            "0",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.031934467721717597,
+        "confidence": 0.24135249672762144,
+        "lift": 1.030161286196505
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "0",
+            "EMS"
+        ],
+        "support": 0.031934467721717597,
+        "confidence": 0.13630541547424738,
+        "lift": 1.030161286196505
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Fire"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.012222997686753103,
+        "confidence": 0.2723417262063959,
+        "lift": 1.0037453663388705
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Fire"
+        ],
+        "support": 0.012222997686753103,
+        "confidence": 0.04504920146371985,
+        "lift": 1.0037453663388705
+    },
+    {
+        "antecedents": [
+            "0",
+            "morning"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.010774003151777461,
+        "confidence": 0.17323811624572624,
+        "lift": 1.1376167961737116
+    },
+    {
+        "antecedents": [
+            "0",
+            "Fire"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.010774003151777461,
+        "confidence": 0.2641136659800748,
+        "lift": 1.1273124477148613
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "0",
+            "Fire"
+        ],
+        "support": 0.010774003151777461,
+        "confidence": 0.04598651803816229,
+        "lift": 1.1273124477148613
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "0",
+            "morning"
+        ],
+        "support": 0.010774003151777461,
+        "confidence": 0.07075052080400877,
+        "lift": 1.1376167961737116
+    },
+    {
+        "antecedents": [
+            "0",
+            "Friday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.39759958113496313,
+        "lift": 1.2230476027714343
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.1723553957085741,
+        "lift": 1.1127860770957796
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.31028413376917274,
+        "lift": 1.1435862798462468
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Friday",
+            "Traffic"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.06239137441776688,
+        "lift": 1.1435862798462468
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.10929542535760152,
+        "lift": 1.1127860770957796
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Friday"
+        ],
+        "support": 0.01692837165595211,
+        "confidence": 0.052073003481379894,
+        "lift": 1.2230476027714343
+    },
+    {
+        "antecedents": [
+            "0",
+            "Friday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.3552297716380039,
+        "lift": 1.0654956425820674
+    },
+    {
+        "antecedents": [
+            "0",
+            "afternoon"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.16261361750769743,
+        "lift": 1.0498897859554641
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.2843051929213809,
+        "lift": 1.0478380378798262
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Friday",
+            "afternoon"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.05574269878086547,
+        "lift": 1.0478380378798262
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "0",
+            "afternoon"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.09764846552411319,
+        "lift": 1.0498897859554641
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Friday"
+        ],
+        "support": 0.015124416329568234,
+        "confidence": 0.04536500311177176,
+        "lift": 1.0654956425820674
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Friday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.013221003390132775,
+        "confidence": 0.27733812949640285,
+        "lift": 1.0221601598432049
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Friday"
+        ],
+        "support": 0.013221003390132775,
+        "confidence": 0.048727461179191925,
+        "lift": 1.022160159843205
+    },
+    {
+        "antecedents": [
+            "0",
+            "Monday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.014193287297033591,
+        "confidence": 0.3574605916648672,
+        "lift": 1.0995769122115149
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.014193287297033591,
+        "confidence": 0.2984853948791922,
+        "lift": 1.1001007308103823
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Monday",
+            "Traffic"
+        ],
+        "support": 0.014193287297033591,
+        "confidence": 0.052310920386533274,
+        "lift": 1.1001007308103823
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Monday"
+        ],
+        "support": 0.014193287297033591,
+        "confidence": 0.043659668741428424,
+        "lift": 1.0995769122115147
+    },
+    {
+        "antecedents": [
+            "0",
+            "Monday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.013567390249381391,
+        "confidence": 0.3416972576117469,
+        "lift": 1.0249054784703413
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.013567390249381391,
+        "confidence": 0.2796945701357466,
+        "lift": 1.0308450808273708
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Monday",
+            "afternoon"
+        ],
+        "support": 0.013567390249381391,
+        "confidence": 0.050004108022019,
+        "lift": 1.0308450808273708
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Monday"
+        ],
+        "support": 0.013567390249381391,
+        "confidence": 0.040694773766478246,
+        "lift": 1.0249054784703413
+    },
+    {
+        "antecedents": [
+            "0",
+            "Monday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.3378104081191967,
+        "lift": 1.0785693302418593
+    },
+    {
+        "antecedents": [
+            "0",
+            "evening"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.15567408350913503,
+        "lift": 1.0648575499265456
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Monday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.27500615265618955,
+        "lift": 1.0135654028796697
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Monday"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.04943530497323466,
+        "lift": 1.0135654028796697
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "0",
+            "evening"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.09174936073380721,
+        "lift": 1.0648575499265456
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "Monday"
+        ],
+        "support": 0.013413059470508245,
+        "confidence": 0.042825544216197275,
+        "lift": 1.0785693302418593
+    },
+    {
+        "antecedents": [
+            "0",
+            "Saturday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.011720565262199419,
+        "confidence": 0.3330734369670094,
+        "lift": 1.0245601050848832
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.011720565262199419,
+        "confidence": 0.29249400890106125,
+        "lift": 1.078018819245575
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Saturday",
+            "Traffic"
+        ],
+        "support": 0.011720565262199419,
+        "confidence": 0.04319743153823304,
+        "lift": 1.078018819245575
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Saturday"
+        ],
+        "support": 0.011720565262199419,
+        "confidence": 0.03605338115835004,
+        "lift": 1.024560105084883
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.1602213803097229,
+        "lift": 1.0767647083868317
+    },
+    {
+        "antecedents": [
+            "0",
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.39057711950970375,
+        "lift": 1.2014459581424064
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.3041460908759487,
+        "lift": 1.1209638481010882
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.05799895087437669,
+        "lift": 1.1209638481010882
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Thursday"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.04840700495832894,
+        "lift": 1.2014459581424064
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.015736595085765043,
+        "confidence": 0.105757484960933,
+        "lift": 1.076764708386832
+    },
+    {
+        "antecedents": [
+            "0",
+            "afternoon"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.15107210678662955,
+        "lift": 1.0152771914399619
+    },
+    {
+        "antecedents": [
+            "0",
+            "Thursday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.34874021109976167,
+        "lift": 1.046030499095119
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Thursday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.27514186897686443,
+        "lift": 1.0140656002967585
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "afternoon",
+            "Thursday"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.0517863575748766,
+        "lift": 1.0140656002967585
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Thursday"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.04214521944420156,
+        "lift": 1.0460304990951188
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "0",
+            "afternoon"
+        ],
+        "support": 0.014050960023183913,
+        "confidence": 0.09442920690529422,
+        "lift": 1.0152771914399619
+    },
+    {
+        "antecedents": [
+            "0",
+            "evening"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.15444015444015444,
+        "lift": 1.0379120909925068
+    },
+    {
+        "antecedents": [
+            "0",
+            "Thursday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.3302689819543752,
+        "lift": 1.0544908804008766
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Thursday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.27934770870081715,
+        "lift": 1.029566684883709
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Thursday"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.049043462872961,
+        "lift": 1.029566684883709
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "Thursday"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.042486093469405635,
+        "lift": 1.0544908804008766
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "0",
+            "evening"
+        ],
+        "support": 0.013306742711728967,
+        "confidence": 0.08942770876068869,
+        "lift": 1.0379120909925068
+    },
+    {
+        "antecedents": [
+            "0",
+            "Tuesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.36849650054810695,
+        "lift": 1.133524236465533
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.1525917907711647,
+        "lift": 1.0361171636333277
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.3011508510784922,
+        "lift": 1.109924562606172
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.05523709607083495,
+        "lift": 1.109924562606172
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.10176517162684552,
+        "lift": 1.0361171636333277
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Tuesday"
+        ],
+        "support": 0.014987233415014328,
+        "confidence": 0.0461019094841228,
+        "lift": 1.1335242364655327
+    },
+    {
+        "antecedents": [
+            "0",
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.3853855899301156,
+        "lift": 1.1854764045807367
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.16463851109520397,
+        "lift": 1.0965176798288307
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.31203467787300215,
+        "lift": 1.150038102551736
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.05959791944484822,
+        "lift": 1.1500381025517363
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.10769757880310643,
+        "lift": 1.096517679828831
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "Wednesday"
+        ],
+        "support": 0.016170436053041772,
+        "confidence": 0.04974153391707986,
+        "lift": 1.1854764045807367
+    },
+    {
+        "antecedents": [
+            "0",
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.4343369162410812,
+        "lift": 1.3360545367965906
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.4112994744836496,
+        "lift": 1.2336741817496313
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.3072528791099866,
+        "lift": 1.132414257619857
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.1488873580362391,
+        "lift": 1.132414257619857
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.12116879175817677,
+        "lift": 1.2336741817496313
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "afternoon"
+        ],
+        "support": 0.04039693876326173,
+        "confidence": 0.12426416288638044,
+        "lift": 1.3360545367965906
+    },
+    {
+        "antecedents": [
+            "0",
+            "evening"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.3674919396568881,
+        "lift": 1.1304341281049153
+    },
+    {
+        "antecedents": [
+            "0",
+            "Traffic"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.32238071128026957,
+        "lift": 1.029305016930576
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.3054135860665906,
+        "lift": 1.1256353409427668
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.11669942550892073,
+        "lift": 1.1256353409427668
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "Traffic"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.10109609741141432,
+        "lift": 1.029305016930576
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "0",
+            "evening"
+        ],
+        "support": 0.031663531465473634,
+        "confidence": 0.09739951471674228,
+        "lift": 1.1304341281049153
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Traffic"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.019483403439518626,
+        "confidence": 0.2976293385723641,
+        "lift": 1.0969456411982506
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "morning",
+            "Traffic"
+        ],
+        "support": 0.019483403439518626,
+        "confidence": 0.07180822489208542,
+        "lift": 1.0969456411982503
+    },
+    {
+        "antecedents": [
+            "0",
+            "Tuesday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.35091491694072013,
+        "lift": 1.0525534309618778
+    },
+    {
+        "antecedents": [
+            "0",
+            "afternoon"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.15345046921956526,
+        "lift": 1.0419476966779533
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.2838676671214188,
+        "lift": 1.046225488453475
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Tuesday",
+            "afternoon"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.05260164194480083,
+        "lift": 1.046225488453475
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "0",
+            "afternoon"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.09690978529178892,
+        "lift": 1.0419476966779533
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Tuesday"
+        ],
+        "support": 0.014272167472902088,
+        "confidence": 0.042808721190394146,
+        "lift": 1.052553430961878
+    },
+    {
+        "antecedents": [
+            "0",
+            "Tuesday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.33594738173539085,
+        "lift": 1.0726210140541135
+    },
+    {
+        "antecedents": [
+            "0",
+            "evening"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.1585797874457668,
+        "lift": 1.0767764028950177
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Tuesday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.28453078131695475,
+        "lift": 1.0486694687072327
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Tuesday"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.05035802991904037,
+        "lift": 1.0486694687072327
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "0",
+            "evening"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.09277630292021796,
+        "lift": 1.0767764028950177
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "Tuesday"
+        ],
+        "support": 0.013663418289569126,
+        "confidence": 0.04362489597477114,
+        "lift": 1.0726210140541135
+    },
+    {
+        "antecedents": [
+            "0",
+            "afternoon"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.15966371061413376,
+        "lift": 1.0633847472918008
+    },
+    {
+        "antecedents": [
+            "0",
+            "Wednesday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.3539172013568188,
+        "lift": 1.0615586473557477
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "afternoon"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.2863283187303686,
+        "lift": 1.055294490420459
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "Wednesday",
+            "afternoon"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.05473149336080441,
+        "lift": 1.055294490420459
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "0",
+            "Wednesday"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.044542055209517394,
+        "lift": 1.0615586473557477
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "0",
+            "afternoon"
+        ],
+        "support": 0.01485005050046042,
+        "confidence": 0.0989036089538602,
+        "lift": 1.0633847472918008
+    },
+    {
+        "antecedents": [
+            "0",
+            "evening"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.15694781674163116,
+        "lift": 1.045296478466193
+    },
+    {
+        "antecedents": [
+            "0",
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.3222853406350893,
+        "lift": 1.0290005152029071
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Wednesday"
+        ],
+        "consequents": [
+            "0"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.2776076319217094,
+        "lift": 1.023153440653996
+    },
+    {
+        "antecedents": [
+            "0"
+        ],
+        "consequents": [
+            "evening",
+            "Wednesday"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.04983978714125908,
+        "lift": 1.0231534406539962
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "0",
+            "Wednesday"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.04317594498707897,
+        "lift": 1.0290005152029071
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "0",
+            "evening"
+        ],
+        "support": 0.01352280580215137,
+        "confidence": 0.09006395614435815,
+        "lift": 1.045296478466193
+    },
+    {
+        "antecedents": [
+            "1",
+            "afternoon"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01700039268609291,
+        "confidence": 0.5459852406652715,
+        "lift": 1.0446895474807296
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.01700039268609291,
+        "confidence": 0.11126074562880166,
+        "lift": 1.1295419763087786
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.01700039268609291,
+        "confidence": 0.17259148358344067,
+        "lift": 1.1295419763087784
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "1",
+            "afternoon"
+        ],
+        "support": 0.01700039268609291,
+        "confidence": 0.03252859458359856,
+        "lift": 1.0446895474807296
+    },
+    {
+        "antecedents": [
+            "evening",
+            "1"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.017413656216186554,
+        "confidence": 0.6068120705109052,
+        "lift": 1.1610757583400084
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.017413656216186554,
+        "confidence": 0.10576362272954508,
+        "lift": 1.0737340538600622
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.017413656216186554,
+        "confidence": 0.17678701995055882,
+        "lift": 1.0737340538600622
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "1"
+        ],
+        "support": 0.017413656216186554,
+        "confidence": 0.033319334072669286,
+        "lift": 1.1610757583400082
+    },
+    {
+        "antecedents": [
+            "morning",
+            "1"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.5902030249352773,
+        "lift": 1.1292959683124477
+    },
+    {
+        "antecedents": [
+            "morning",
+            "EMS"
+        ],
+        "consequents": [
+            "1"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.11582789603166113,
+        "lift": 1.1759086266758052
+    },
+    {
+        "antecedents": [
+            "1",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.25403947098325563,
+        "lift": 1.0843129104569982
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "1",
+            "EMS"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.06340620814333917,
+        "lift": 1.0843129104569982
+    },
+    {
+        "antecedents": [
+            "1"
+        ],
+        "consequents": [
+            "morning",
+            "EMS"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.15081299397653283,
+        "lift": 1.175908626675805
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "1"
+        ],
+        "support": 0.014855194859756192,
+        "confidence": 0.02842396760921064,
+        "lift": 1.1292959683124475
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.012600250701776347,
+        "confidence": 0.14808246508534692,
+        "lift": 1.012928596741105
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.012600250701776347,
+        "confidence": 0.08618950430478335,
+        "lift": 1.012928596741105
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "2"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.011597100639100903,
+        "confidence": 0.536873858855283,
+        "lift": 1.027255806362741
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.011597100639100903,
+        "confidence": 0.13629310171096914,
+        "lift": 1.0172408179931132
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.011597100639100903,
+        "confidence": 0.08655642869941384,
+        "lift": 1.0172408179931132
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday",
+            "2"
+        ],
+        "support": 0.011597100639100903,
+        "confidence": 0.022189921844752575,
+        "lift": 1.0272558063627408
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.011223277196941507,
+        "confidence": 0.13189980048769673,
+        "lift": 1.1110176267359018
+    },
+    {
+        "antecedents": [
+            "2",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.011223277196941507,
+        "confidence": 0.586890243902439,
+        "lift": 1.122957284662535
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "2",
+            "Sunday"
+        ],
+        "support": 0.011223277196941507,
+        "confidence": 0.021474647120198965,
+        "lift": 1.1229572846625349
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.011223277196941507,
+        "confidence": 0.09453584273395635,
+        "lift": 1.1110176267359018
+    },
+    {
+        "antecedents": [
+            "evening",
+            "2"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.5276493919428328,
+        "lift": 1.0096056879222195
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.1676491418096984,
+        "lift": 1.0176300988328577
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.3243989439954858,
+        "lift": 1.0357488796879215
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.08813126888879157,
+        "lift": 1.0357488796879215
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.16754967576738522,
+        "lift": 1.0176300988328577
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "2"
+        ],
+        "support": 0.02760291719467799,
+        "confidence": 0.05281549193183236,
+        "lift": 1.0096056879222197
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "2"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01240476504853703,
+        "confidence": 0.6275156141568355,
+        "lift": 1.2006899713842296
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.01240476504853703,
+        "confidence": 0.14578505068418612,
+        "lift": 1.2238745772999646
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.01240476504853703,
+        "confidence": 0.10413877492262291,
+        "lift": 1.2238745772999646
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "2"
+        ],
+        "support": 0.01240476504853703,
+        "confidence": 0.02373530897899455,
+        "lift": 1.2006899713842294
+    },
+    {
+        "antecedents": [
+            "morning",
+            "2"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.020296212208250522,
+        "confidence": 0.5447098347830088,
+        "lift": 1.042249182623299
+    },
+    {
+        "antecedents": [
+            "2",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.020296212208250522,
+        "confidence": 0.2385280425626247,
+        "lift": 1.0181057103277382
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "2",
+            "EMS"
+        ],
+        "support": 0.020296212208250522,
+        "confidence": 0.08663002188440058,
+        "lift": 1.0181057103277382
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "2"
+        ],
+        "support": 0.020296212208250522,
+        "confidence": 0.03883482403585561,
+        "lift": 1.0422491826232991
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Traffic"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.1793460540216243,
+        "lift": 1.0886303425667199
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "2"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.4046434982196981,
+        "lift": 1.2137098818159056
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "2"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.4256089634467176,
+        "lift": 1.3092066671087572
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon",
+            "2"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.07253402257622113,
+        "lift": 1.3092066671087574
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "2"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.0707272287743734,
+        "lift": 1.2137098818159056
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "afternoon",
+            "Traffic"
+        ],
+        "support": 0.02358002822538467,
+        "confidence": 0.14313074432983253,
+        "lift": 1.08863034256672
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.17898079690368682,
+        "lift": 1.0864132322790452
+    },
+    {
+        "antecedents": [
+            "evening",
+            "2"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.3547054774314092,
+        "lift": 1.091101964001123
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "2"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.3184239178412736,
+        "lift": 1.016671670098061
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Traffic",
+            "2"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.05924510533923175,
+        "lift": 1.016671670098061
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "2"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.05707880578120056,
+        "lift": 1.091101964001123
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.01855570397984783,
+        "confidence": 0.11263310191208768,
+        "lift": 1.0864132322790452
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Traffic"
+        ],
+        "consequents": [
+            "2"
+        ],
+        "support": 0.011466776870274692,
+        "confidence": 0.17516699410609038,
+        "lift": 1.0632634536642966
+    },
+    {
+        "antecedents": [
+            "2"
+        ],
+        "consequents": [
+            "morning",
+            "Traffic"
+        ],
+        "support": 0.011466776870274692,
+        "confidence": 0.06960332247353575,
+        "lift": 1.0632634536642966
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.02679010842594609,
+        "confidence": 0.3470466712575249,
+        "lift": 1.015233551129442
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Friday",
+            "EMS"
+        ],
+        "support": 0.02679010842594609,
+        "confidence": 0.07837048779019604,
+        "lift": 1.015233551129442
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.026256809845617776,
+        "confidence": 0.3425656628931943,
+        "lift": 1.0021250259334624
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "3"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.026256809845617776,
+        "confidence": 0.1462673735492191,
+        "lift": 1.0005128247482025
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "EMS",
+            "3"
+        ],
+        "support": 0.026256809845617776,
+        "confidence": 0.179604476036315,
+        "lift": 1.0005128247482022
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Monday",
+            "EMS"
+        ],
+        "support": 0.026256809845617776,
+        "confidence": 0.07681040191022734,
+        "lift": 1.0021250259334624
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.35043598843631746,
+        "lift": 1.0251484957184833
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "3"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.5538632986627042,
+        "lift": 1.0597634436804448
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "3"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.1424272818455366,
+        "lift": 1.0630240479546507
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "EMS",
+            "3"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.1908260168428597,
+        "lift": 1.0630240479546507
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday",
+            "3"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.04892085386740513,
+        "lift": 1.0597634436804448
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Saturday",
+            "EMS"
+        ],
+        "support": 0.025567465699984394,
+        "confidence": 0.07479382787888517,
+        "lift": 1.0251484957184833
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Sunday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.34270715236358257,
+        "lift": 1.0025389323886065
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "3"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.13282705258633043,
+        "lift": 1.1188280511808273
+    },
+    {
+        "antecedents": [
+            "Sunday",
+            "3"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.5905963302752293,
+        "lift": 1.130048519749764
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday",
+            "3"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.04562337176567863,
+        "lift": 1.130048519749764
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS",
+            "3"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.2008435283751968,
+        "lift": 1.1188280511808273
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "EMS",
+            "Sunday"
+        ],
+        "support": 0.02384410533590094,
+        "confidence": 0.06975239280052972,
+        "lift": 1.0025389323886063
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Thursday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.025802391441157962,
+        "confidence": 0.3448615694902824,
+        "lift": 1.0088413600771593
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "EMS",
+            "Thursday"
+        ],
+        "support": 0.025802391441157962,
+        "confidence": 0.07548106828260129,
+        "lift": 1.0088413600771593
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.3490772111269615,
+        "lift": 1.0211735942795124
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "3"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.6653496473787068,
+        "lift": 1.273081706731814
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "3"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.14960118450589865,
+        "lift": 1.2559112583317265
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "EMS",
+            "3"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.2254516663067732,
+        "lift": 1.2559112583317265
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "3"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.05138494248272514,
+        "lift": 1.273081706731814
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "midnight",
+            "EMS"
+        ],
+        "support": 0.026855270310359197,
+        "confidence": 0.07856110921604431,
+        "lift": 1.0211735942795124
+    },
+    {
+        "antecedents": [
+            "morning",
+            "EMS"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.35261792705102146,
+        "lift": 1.0315314334372796
+    },
+    {
+        "antecedents": [
+            "morning",
+            "3"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.5620245071923282,
+        "lift": 1.0753791208282741
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.2519272102020347,
+        "lift": 1.075297179057208
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "EMS",
+            "3"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.19302919627891998,
+        "lift": 1.075297179057208
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "3"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.08653183628739608,
+        "lift": 1.075379120828274
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "EMS"
+        ],
+        "support": 0.04522406256912733,
+        "confidence": 0.13229628589200795,
+        "lift": 1.0315314334372798
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Fire"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016813480965013214,
+        "confidence": 0.3423055439184472,
+        "lift": 1.0013640864624347
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "afternoon",
+            "Fire"
+        ],
+        "support": 0.016813480965013214,
+        "confidence": 0.04918534422216426,
+        "lift": 1.0013640864624345
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Fire"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016371066065576863,
+        "confidence": 0.36476521606235435,
+        "lift": 1.06706652534548
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.016371066065576863,
+        "confidence": 0.15245684355088548,
+        "lift": 1.0011507263742474
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.016371066065576863,
+        "confidence": 0.10750520804008784,
+        "lift": 1.0011507263742474
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Fire"
+        ],
+        "support": 0.016371066065576863,
+        "confidence": 0.04789112506772077,
+        "lift": 1.06706652534548
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Fire"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.34835164835164834,
+        "lift": 1.0190510680202074
+    },
+    {
+        "antecedents": [
+            "morning",
+            "3"
+        ],
+        "consequents": [
+            "Fire"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.17564198188598826,
+        "lift": 1.1534024557466198
+    },
+    {
+        "antecedents": [
+            "Fire",
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.26344051652496325,
+        "lift": 1.124439253868175
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Fire",
+            "3"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.060324825986078884,
+        "lift": 1.124439253868175
+    },
+    {
+        "antecedents": [
+            "Fire"
+        ],
+        "consequents": [
+            "morning",
+            "3"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.09281008952198638,
+        "lift": 1.15340245574662
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "Fire"
+        ],
+        "support": 0.014133269771916257,
+        "confidence": 0.0413447839958264,
+        "lift": 1.0190510680202074
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.018253901567829234,
+        "confidence": 0.3432763624637214,
+        "lift": 1.0559451068859118
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.018253901567829234,
+        "confidence": 0.1679631412026445,
+        "lift": 1.0844281620959852
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.018253901567829234,
+        "confidence": 0.11785350515920463,
+        "lift": 1.0844281620959852
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday",
+            "3"
+        ],
+        "support": 0.018253901567829234,
+        "confidence": 0.056150437809895565,
+        "lift": 1.055945106885912
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "afternoon"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.34629146117396764,
+        "lift": 1.0130242960681546
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "3"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.34643663334408253,
+        "lift": 1.0391210217455507
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.16212423035132198,
+        "lift": 1.046730133124839
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.11893848810947255,
+        "lift": 1.046730133124839
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Friday",
+            "3"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.05525580821199138,
+        "lift": 1.0391210217455509
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Friday",
+            "afternoon"
+        ],
+        "support": 0.01842195063815777,
+        "confidence": 0.05389068362862933,
+        "lift": 1.0130242960681548
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Friday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016309333754027603,
+        "confidence": 0.34212230215827333,
+        "lift": 1.0008280398776268
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Friday"
+        ],
+        "support": 0.016309333754027603,
+        "confidence": 0.04771053634849609,
+        "lift": 1.0008280398776268
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Friday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.3446976744186047,
+        "lift": 1.0083619093593956
+    },
+    {
+        "antecedents": [
+            "morning",
+            "3"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.1579328716036228,
+        "lift": 1.0196692706587782
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.23898742341180268,
+        "lift": 1.0200664788006548
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Friday",
+            "3"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.05424257284431335,
+        "lift": 1.0200664788006548
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "morning",
+            "3"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.08204906780036314,
+        "lift": 1.0196692706587782
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "Friday"
+        ],
+        "support": 0.01270828224698755,
+        "confidence": 0.03717619439372354,
+        "lift": 1.0083619093593954
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.016125851605811755,
+        "confidence": 0.14838190510753113,
+        "lift": 1.014976856548938
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.016125851605811755,
+        "confidence": 0.11030567480704719,
+        "lift": 1.0149768565489383
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "afternoon"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016635143176093135,
+        "confidence": 0.3429369343891403,
+        "lift": 1.0032111256153773
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.016635143176093135,
+        "confidence": 0.14639925147893276,
+        "lift": 1.001414909449514
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.016635143176093135,
+        "confidence": 0.11378938231637226,
+        "lift": 1.001414909449514
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Monday",
+            "afternoon"
+        ],
+        "support": 0.016635143176093135,
+        "confidence": 0.048663643477737425,
+        "lift": 1.0032111256153773
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Monday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.3466582287381781,
+        "lift": 1.0140972201659517
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.15745516679708085,
+        "lift": 1.0770406952739584
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.33552250995338073,
+        "lift": 1.0712644730407306
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Monday",
+            "3"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.05398361876396128,
+        "lift": 1.0712644730407306
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.1156543974476271,
+        "lift": 1.0770406952739584
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Monday"
+        ],
+        "support": 0.016907794218769024,
+        "confidence": 0.049461243654313064,
+        "lift": 1.0140972201659517
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Monday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.01106380205877259,
+        "confidence": 0.34567372086793463,
+        "lift": 1.0112171884468737
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "Monday"
+        ],
+        "support": 0.01106380205877259,
+        "confidence": 0.03236551156771074,
+        "lift": 1.0112171884468737
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "afternoon"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.01449680449548411,
+        "confidence": 0.34694463824024296,
+        "lift": 1.0149350686743523
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "Saturday",
+            "afternoon"
+        ],
+        "support": 0.01449680449548411,
+        "confidence": 0.04240825089792725,
+        "lift": 1.0149350686743526
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Saturday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.35279371354191774,
+        "lift": 1.0320456707378323
+    },
+    {
+        "antecedents": [
+            "morning",
+            "3"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.15595098561534362,
+        "lift": 1.1639599230091975
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.2718424962852897,
+        "lift": 1.1603012996056299
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Saturday",
+            "3"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.053561887474657274,
+        "lift": 1.1603012996056299
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "morning",
+            "3"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.09365961041288044,
+        "lift": 1.1639599230091975
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "Saturday"
+        ],
+        "support": 0.012548807108818632,
+        "confidence": 0.03670967353572647,
+        "lift": 1.0320456707378323
+    },
+    {
+        "antecedents": [
+            "morning",
+            "3"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.01033501782520496,
+        "confidence": 0.12843899840170483,
+        "lift": 1.0818666188802075
+    },
+    {
+        "antecedents": [
+            "Sunday",
+            "3"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.01033501782520496,
+        "confidence": 0.2559887869520897,
+        "lift": 1.0926331469280706
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Sunday",
+            "3"
+        ],
+        "support": 0.01033501782520496,
+        "confidence": 0.044112803472227305,
+        "lift": 1.0926331469280706
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "morning",
+            "3"
+        ],
+        "support": 0.01033501782520496,
+        "confidence": 0.08705386159779296,
+        "lift": 1.0818666188802075
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.017396508351867318,
+        "confidence": 0.1600738438234691,
+        "lift": 1.0757731922652605
+    },
+    {
+        "antecedents": [
+            "Thursday",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.017396508351867318,
+        "confidence": 0.34072208228379514,
+        "lift": 1.048087940029881
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Thursday",
+            "3"
+        ],
+        "support": 0.017396508351867318,
+        "confidence": 0.05351302880050639,
+        "lift": 1.048087940029881
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.017396508351867318,
+        "confidence": 0.11691290017747252,
+        "lift": 1.0757731922652605
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.01731762817599882,
+        "confidence": 0.15240552939756127,
+        "lift": 1.024238432480582
+    },
+    {
+        "antecedents": [
+            "Thursday",
+            "3"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.01731762817599882,
+        "confidence": 0.3391771620486986,
+        "lift": 1.0173465657448204
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Thursday",
+            "3"
+        ],
+        "support": 0.01731762817599882,
+        "confidence": 0.051943442905417574,
+        "lift": 1.0173465657448204
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.01731762817599882,
+        "confidence": 0.11638278747090143,
+        "lift": 1.024238432480582
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Thursday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.34803268656179126,
+        "lift": 1.0181179926231207
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.15438910269717826,
+        "lift": 1.0375689987345813
+    },
+    {
+        "antecedents": [
+            "Thursday",
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.3247019311502939,
+        "lift": 1.0367162644835906
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Thursday",
+            "3"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.05293241645131619,
+        "lift": 1.0367162644835903
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.11141586189411574,
+        "lift": 1.0375689987345813
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Thursday"
+        ],
+        "support": 0.016578555223839646,
+        "confidence": 0.04849810381844814,
+        "lift": 1.0181179926231207
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Thursday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.011569664056190122,
+        "confidence": 0.3470857554400947,
+        "lift": 1.0153478861072693
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "morning",
+            "Thursday"
+        ],
+        "support": 0.011569664056190122,
+        "confidence": 0.03384533579469069,
+        "lift": 1.0153478861072693
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.016506534193698845,
+        "confidence": 0.3310292651054025,
+        "lift": 1.0182720715616724
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.016506534193698845,
+        "confidence": 0.151884753143885,
+        "lift": 1.0313162905505961
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.016506534193698845,
+        "confidence": 0.11208141213730147,
+        "lift": 1.0313162905505961
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Tuesday",
+            "3"
+        ],
+        "support": 0.016506534193698845,
+        "confidence": 0.05077539824876042,
+        "lift": 1.0182720715616724
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.0172730437287688,
+        "confidence": 0.3399250835217494,
+        "lift": 1.0456363091137986
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.0172730437287688,
+        "confidence": 0.15893778500086783,
+        "lift": 1.0585499716133062
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.0172730437287688,
+        "confidence": 0.11504111466423024,
+        "lift": 1.0585499716133062
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Wednesday",
+            "3"
+        ],
+        "support": 0.0172730437287688,
+        "confidence": 0.05313324190315435,
+        "lift": 1.0456363091137988
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.044733633649597114,
+        "confidence": 0.3936828443800556,
+        "lift": 1.2109994122650405
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.044733633649597114,
+        "confidence": 0.41161620146109795,
+        "lift": 1.2346241900014827
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.044733633649597114,
+        "confidence": 0.1341765120381848,
+        "lift": 1.2346241900014825
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.044733633649597114,
+        "confidence": 0.13760417765587088,
+        "lift": 1.2109994122650403
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.3439520997700921,
+        "lift": 1.0061808413338795
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.33207709873684543,
+        "lift": 1.0214952902767962
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.3281158779999053,
+        "lift": 1.0476163974533463
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Traffic",
+            "3"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.11385287547632604,
+        "lift": 1.0476163974533463
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.10968984070049582,
+        "lift": 1.021495290276796
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.03565898385185617,
+        "confidence": 0.10431506711880731,
+        "lift": 1.0061808413338795
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "3"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.016952378665999045,
+        "confidence": 0.33997042539289524,
+        "lift": 1.019725923287867
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.016952378665999045,
+        "confidence": 0.14919111433055657,
+        "lift": 1.0130261492984765
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.016952378665999045,
+        "confidence": 0.11510875133901542,
+        "lift": 1.0130261492984767
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Tuesday",
+            "3"
+        ],
+        "support": 0.016952378665999045,
+        "confidence": 0.050847893510541455,
+        "lift": 1.019725923287867
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Tuesday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.3425939151549779,
+        "lift": 1.0022076737339847
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.15320739049200746,
+        "lift": 1.04029716200329
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.32992881460848034,
+        "lift": 1.0534047857820794
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Tuesday",
+            "3"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.052527265559984236,
+        "lift": 1.0534047857820794
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.11170881654324438,
+        "lift": 1.04029716200329
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Tuesday"
+        ],
+        "support": 0.016451661027877283,
+        "confidence": 0.04812689367337521,
+        "lift": 1.0022076737339847
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "3"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.017567986995059702,
+        "confidence": 0.1546088373777617,
+        "lift": 1.029718517950293
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "3"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.017567986995059702,
+        "confidence": 0.34572942327810213,
+        "lift": 1.0369997771206487
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Wednesday",
+            "3"
+        ],
+        "support": 0.017567986995059702,
+        "confidence": 0.05269438286622468,
+        "lift": 1.0369997771206487
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "afternoon",
+            "3"
+        ],
+        "support": 0.017567986995059702,
+        "confidence": 0.11700548195523071,
+        "lift": 1.0297185179502928
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Wednesday"
+        ],
+        "consequents": [
+            "3"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.3428732354701306,
+        "lift": 1.0030247838777804
+    },
+    {
+        "antecedents": [
+            "evening",
+            "3"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.15553887673464173,
+        "lift": 1.0359127223983997
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "3"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.32868761178415956,
+        "lift": 1.0494418430581547
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Wednesday",
+            "3"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.0533266173185581,
+        "lift": 1.0494418430581547
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening",
+            "3"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.11123800822293285,
+        "lift": 1.0359127223983997
+    },
+    {
+        "antecedents": [
+            "3"
+        ],
+        "consequents": [
+            "evening",
+            "Wednesday"
+        ],
+        "support": 0.016702019846938164,
+        "confidence": 0.04885928125689749,
+        "lift": 1.0030247838777804
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.019569142761114818,
+        "confidence": 0.1280721836913339,
+        "lift": 1.0362682122013702
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.019569142761114818,
+        "confidence": 0.15833946137943475,
+        "lift": 1.0362682122013704
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.13364439260123312,
+        "lift": 1.081354528360314
+    },
+    {
+        "antecedents": [
+            "evening",
+            "4"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.5693242823550291,
+        "lift": 1.0893465291819155
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "4"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.3272634532007141,
+        "lift": 1.0448947547133725
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "EMS",
+            "4"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.07025535456178003,
+        "lift": 1.0448947547133725
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "4"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.04210277644711889,
+        "lift": 1.0893465291819155
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.022004139494446663,
+        "confidence": 0.1780417077130132,
+        "lift": 1.081354528360314
+    },
+    {
+        "antecedents": [
+            "morning",
+            "EMS"
+        ],
+        "consequents": [
+            "4"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.12430473847470316,
+        "lift": 1.0057847488396947
+    },
+    {
+        "antecedents": [
+            "morning",
+            "4"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.5460151524050039,
+        "lift": 1.0447467806795743
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "4"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.2371078806426932,
+        "lift": 1.0120440542442921
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "EMS",
+            "4"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.06804657937303754,
+        "lift": 1.0120440542442921
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "4"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.030504170248508752,
+        "lift": 1.0447467806795743
+    },
+    {
+        "antecedents": [
+            "4"
+        ],
+        "consequents": [
+            "morning",
+            "EMS"
+        ],
+        "support": 0.015942369457595904,
+        "confidence": 0.1289942141994922,
+        "lift": 1.005784748839695
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "4"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.013371904596142074,
+        "confidence": 0.33249477678761774,
+        "lift": 1.0227801008323534
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "4"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.013371904596142074,
+        "confidence": 0.38070595127666845,
+        "lift": 1.1419102918088695
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "4"
+        ],
+        "support": 0.013371904596142074,
+        "confidence": 0.040108423386122014,
+        "lift": 1.1419102918088695
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon",
+            "4"
+        ],
+        "support": 0.013371904596142074,
+        "confidence": 0.04113303091043359,
+        "lift": 1.0227801008323534
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.02424536536097112,
+        "confidence": 0.3140813470466713,
+        "lift": 1.002806603892613
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Friday",
+            "EMS"
+        ],
+        "support": 0.02424536536097112,
+        "confidence": 0.07741119530462967,
+        "lift": 1.002806603892613
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Friday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01065225331511087,
+        "confidence": 0.6211378862113789,
+        "lift": 1.1884868105200717
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.01065225331511087,
+        "confidence": 0.13799231401470557,
+        "lift": 1.1584540677716513
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Friday",
+            "EMS"
+        ],
+        "support": 0.01065225331511087,
+        "confidence": 0.08942632980637732,
+        "lift": 1.158454067771651
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Friday"
+        ],
+        "support": 0.01065225331511087,
+        "confidence": 0.02038204857305974,
+        "lift": 1.1884868105200717
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Friday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01952627310031672,
+        "confidence": 0.5296279069767442,
+        "lift": 1.0133913836178436
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.01952627310031672,
+        "confidence": 0.2529488859764089,
+        "lift": 1.0796579826290598
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Friday",
+            "EMS"
+        ],
+        "support": 0.01952627310031672,
+        "confidence": 0.08334370219649118,
+        "lift": 1.0796579826290598
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Friday"
+        ],
+        "support": 0.01952627310031672,
+        "confidence": 0.03736162058941262,
+        "lift": 1.0133913836178434
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.022362529858718744,
+        "confidence": 0.14635378089017573,
+        "lift": 1.0011038769472111
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.022362529858718744,
+        "confidence": 0.1529664297276374,
+        "lift": 1.0011038769472114
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Monday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.5229054600428927,
+        "lift": 1.0005286365649537
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.15490126645559074,
+        "lift": 1.0595712488568474
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.3327441943711128,
+        "lift": 1.062393799122034
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Monday",
+            "EMS"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.08142985414567912,
+        "lift": 1.0623937991220338
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.1744551575292655,
+        "lift": 1.0595712488568474
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "Monday"
+        ],
+        "support": 0.025504018602003214,
+        "confidence": 0.04879945402883411,
+        "lift": 1.000528636564954
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Monday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.010996925387927561,
+        "confidence": 0.6505376344086022,
+        "lift": 1.244740363460039
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.010996925387927561,
+        "confidence": 0.14347398093874447,
+        "lift": 1.20447300289615
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Monday",
+            "EMS"
+        ],
+        "support": 0.010996925387927561,
+        "confidence": 0.09231987331749802,
+        "lift": 1.2044730028961497
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Monday"
+        ],
+        "support": 0.010996925387927561,
+        "confidence": 0.021041544993405038,
+        "lift": 1.244740363460039
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Monday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.017784050085482103,
+        "confidence": 0.5556388963300294,
+        "lift": 1.0631608767709906
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Monday"
+        ],
+        "support": 0.017784050085482103,
+        "confidence": 0.03402804664378663,
+        "lift": 1.0631608767709906
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.020584296328813728,
+        "confidence": 0.13471595627679395,
+        "lift": 1.0054695933939641
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.020584296328813728,
+        "confidence": 0.15363350142063636,
+        "lift": 1.0054695933939641
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Saturday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.020735197534823026,
+        "confidence": 0.5372789478361326,
+        "lift": 1.028030904648507
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "Saturday"
+        ],
+        "support": 0.020735197534823026,
+        "confidence": 0.039674779675698386,
+        "lift": 1.028030904648507
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Saturday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.658395132154402,
+        "lift": 1.259774919622012
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.15435538516405137,
+        "lift": 1.1520509570535706
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.1627611817519449,
+        "lift": 1.366390254574382
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Saturday",
+            "EMS"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.09969049161448212,
+        "lift": 1.366390254574382
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "midnight",
+            "EMS"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.08862978984820949,
+        "lift": 1.1520509570535706
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Saturday"
+        ],
+        "support": 0.011874896041072565,
+        "confidence": 0.02272145627309058,
+        "lift": 1.259774919622012
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Saturday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.5556573301836764,
+        "lift": 1.063196148153421
+    },
+    {
+        "antecedents": [
+            "morning",
+            "EMS"
+        ],
+        "consequents": [
+            "Saturday"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.15410739116483044,
+        "lift": 1.1502000224467712
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.2709004160105295,
+        "lift": 1.15628023232559
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Saturday",
+            "EMS"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.08436107065221368,
+        "lift": 1.15628023232559
+    },
+    {
+        "antecedents": [
+            "Saturday"
+        ],
+        "consequents": [
+            "morning",
+            "EMS"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.14751580617912818,
+        "lift": 1.1502000224467712
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Saturday"
+        ],
+        "support": 0.019764628414354134,
+        "confidence": 0.037817690253233505,
+        "lift": 1.063196148153421
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.019594864557593676,
+        "confidence": 0.12824052252373577,
+        "lift": 1.080194818027665
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.019594864557593676,
+        "confidence": 0.5339969157437263,
+        "lift": 1.021751056099386
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "afternoon",
+            "Sunday"
+        ],
+        "support": 0.019594864557593676,
+        "confidence": 0.03749286365813806,
+        "lift": 1.021751056099386
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.019594864557593676,
+        "confidence": 0.16505134834544222,
+        "lift": 1.080194818027665
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.020289353062522827,
+        "confidence": 0.12322946175637393,
+        "lift": 1.0379856803292113
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.020289353062522827,
+        "confidence": 0.6003348723933228,
+        "lift": 1.1486822709956341
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "evening",
+            "Sunday"
+        ],
+        "support": 0.020289353062522827,
+        "confidence": 0.03882169972898306,
+        "lift": 1.148682270995634
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.020289353062522827,
+        "confidence": 0.17090115985151588,
+        "lift": 1.0379856803292113
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.15413248930099857,
+        "lift": 1.29828788089839
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.6610898661567878,
+        "lift": 1.264931030512671
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Sunday"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.17042933898555726,
+        "lift": 1.4307649119820707
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "EMS",
+            "Sunday"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.09954653422586915,
+        "lift": 1.4307649119820705
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Sunday"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.02268864550590922,
+        "lift": 1.264931030512671
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "midnight",
+            "EMS"
+        ],
+        "support": 0.011857748176753327,
+        "confidence": 0.09988011497407306,
+        "lift": 1.29828788089839
+    },
+    {
+        "antecedents": [
+            "morning",
+            "EMS"
+        ],
+        "consequents": [
+            "Sunday"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.13905230505936464,
+        "lift": 1.1712645613411852
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Sunday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.5887347863005944,
+        "lift": 1.126486636776321
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Sunday"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.25632178242224085,
+        "lift": 1.0940544665600593
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "EMS",
+            "Sunday"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.076119654241109,
+        "lift": 1.0940544665600593
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Sunday"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.03412319786861257,
+        "lift": 1.126486636776321
+    },
+    {
+        "antecedents": [
+            "Sunday"
+        ],
+        "consequents": [
+            "morning",
+            "EMS"
+        ],
+        "support": 0.017833778892007896,
+        "confidence": 0.1502173818843615,
+        "lift": 1.171264561341185
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Thursday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.024301953313224604,
+        "confidence": 0.3248074807480748,
+        "lift": 1.03705326581999
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "EMS",
+            "Thursday"
+        ],
+        "support": 0.024301953313224604,
+        "confidence": 0.07759187070211554,
+        "lift": 1.03705326581999
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Thursday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01051335561412504,
+        "confidence": 0.6272122762148338,
+        "lift": 1.2001095637948642
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Thursday"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.01051335561412504,
+        "confidence": 0.14051613494682802,
+        "lift": 1.1796417016338743
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "EMS",
+            "Thursday"
+        ],
+        "support": 0.01051335561412504,
+        "confidence": 0.08826027495861226,
+        "lift": 1.1796417016338743
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Thursday"
+        ],
+        "support": 0.01051335561412504,
+        "confidence": 0.020116281358890736,
+        "lift": 1.2001095637948642
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Thursday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.01783206410557597,
+        "confidence": 0.5349555018262255,
+        "lift": 1.0235852171465367
+    },
+    {
+        "antecedents": [
+            "EMS",
+            "Thursday"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.01783206410557597,
+        "confidence": 0.23833425009167583,
+        "lift": 1.0172785487949816
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "EMS",
+            "Thursday"
+        ],
+        "support": 0.01783206410557597,
+        "confidence": 0.07611233504358582,
+        "lift": 1.0172785487949816
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Thursday"
+        ],
+        "support": 0.01783206410557597,
+        "confidence": 0.03411991679189443,
+        "lift": 1.023585217146537
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "EMS"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.022782652534540086,
+        "confidence": 0.14910331515273945,
+        "lift": 1.0124299820038307
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "afternoon",
+            "EMS"
+        ],
+        "support": 0.022782652534540086,
+        "confidence": 0.15469703320758232,
+        "lift": 1.0124299820038307
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.024691209833271315,
+        "confidence": 0.14996458923512748,
+        "lift": 1.018278139724799
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.024691209833271315,
+        "confidence": 0.3255041142960485,
+        "lift": 1.039277494444103
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Tuesday",
+            "EMS"
+        ],
+        "support": 0.024691209833271315,
+        "confidence": 0.07883469843633656,
+        "lift": 1.039277494444103
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.024691209833271315,
+        "confidence": 0.16765637371338085,
+        "lift": 1.0182781397247993
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "midnight"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.010641964596519327,
+        "confidence": 0.6473349327213936,
+        "lift": 1.2386123059098955
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.010641964596519327,
+        "confidence": 0.14029297404828647,
+        "lift": 1.17776825199627
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Tuesday",
+            "EMS"
+        ],
+        "support": 0.010641964596519327,
+        "confidence": 0.08933995537320955,
+        "lift": 1.17776825199627
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "Tuesday",
+            "midnight"
+        ],
+        "support": 0.010641964596519327,
+        "confidence": 0.020362362112750925,
+        "lift": 1.2386123059098955
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Tuesday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.017739465638252083,
+        "confidence": 0.545248511042007,
+        "lift": 1.043279887146677
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Tuesday"
+        ],
+        "support": 0.017739465638252083,
+        "confidence": 0.033942738649115095,
+        "lift": 1.043279887146677
+    },
+    {
+        "antecedents": [
+            "evening",
+            "EMS"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.024879836340782936,
+        "confidence": 0.151110231628062,
+        "lift": 1.006417268237957
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.024879836340782936,
+        "confidence": 0.32919635159050686,
+        "lift": 1.0510661599501487
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "support": 0.024879836340782936,
+        "confidence": 0.07943694976128947,
+        "lift": 1.0510661599501487
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening",
+            "EMS"
+        ],
+        "support": 0.024879836340782936,
+        "confidence": 0.1657035175879397,
+        "lift": 1.006417268237957
+    },
+    {
+        "antecedents": [
+            "midnight",
+            "Wednesday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.010395035350322294,
+        "confidence": 0.6542197280379883,
+        "lift": 1.2517856907710445
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "consequents": [
+            "midnight"
+        ],
+        "support": 0.010395035350322294,
+        "confidence": 0.13754140763261788,
+        "lift": 1.1546686806198856
+    },
+    {
+        "antecedents": [
+            "midnight"
+        ],
+        "consequents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "support": 0.010395035350322294,
+        "confidence": 0.08726696897718277,
+        "lift": 1.1546686806198856
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "midnight",
+            "Wednesday"
+        ],
+        "support": 0.010395035350322294,
+        "confidence": 0.019889887065339364,
+        "lift": 1.2517856907710447
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Wednesday"
+        ],
+        "consequents": [
+            "EMS"
+        ],
+        "support": 0.017772046580458636,
+        "confidence": 0.5276448426840443,
+        "lift": 1.0095969833588887
+    },
+    {
+        "antecedents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "consequents": [
+            "morning"
+        ],
+        "support": 0.017772046580458636,
+        "confidence": 0.23514997504197485,
+        "lift": 1.0036871547747017
+    },
+    {
+        "antecedents": [
+            "morning"
+        ],
+        "consequents": [
+            "Wednesday",
+            "EMS"
+        ],
+        "support": 0.017772046580458636,
+        "confidence": 0.07585616313027439,
+        "lift": 1.0036871547747017
+    },
+    {
+        "antecedents": [
+            "EMS"
+        ],
+        "consequents": [
+            "morning",
+            "Wednesday"
+        ],
+        "support": 0.017772046580458636,
+        "confidence": 0.03400507910675968,
+        "lift": 1.0095969833588887
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.17629413222385978,
+        "lift": 1.1382159230111901
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.4357089901041163,
+        "lift": 1.3402751439818905
+    },
+    {
+        "antecedents": [
+            "Friday",
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.4248491325119437,
+        "lift": 1.2743157685205075
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Friday",
+            "Traffic"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.0695236674673264,
+        "lift": 1.2743157685205073
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday",
+            "afternoon"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.071299715159827,
+        "lift": 1.3402751439818905
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "support": 0.023178768200314493,
+        "confidence": 0.14965014835481158,
+        "lift": 1.1382159230111901
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Friday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.016413935726374958,
+        "confidence": 0.3443165467625899,
+        "lift": 1.059144795652032
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.016413935726374958,
+        "confidence": 0.15832216874245356,
+        "lift": 1.0221827077006713
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.016413935726374958,
+        "confidence": 0.10597404897923031,
+        "lift": 1.0221827077006713
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "Friday"
+        ],
+        "support": 0.016413935726374958,
+        "confidence": 0.050490558075746386,
+        "lift": 1.059144795652032
+    },
+    {
+        "antecedents": [
+            "morning",
+            "Traffic"
+        ],
+        "consequents": [
+            "Friday"
+        ],
+        "support": 0.011140967448209162,
+        "confidence": 0.17018991486574983,
+        "lift": 1.0988049834247295
+    },
+    {
+        "antecedents": [
+            "Friday"
+        ],
+        "consequents": [
+            "morning",
+            "Traffic"
+        ],
+        "support": 0.011140967448209162,
+        "confidence": 0.07192994110092556,
+        "lift": 1.0988049834247295
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.019058136404401512,
+        "confidence": 0.40079336458708975,
+        "lift": 1.2021615800224306
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.019058136404401512,
+        "confidence": 0.39288744343891396,
+        "lift": 1.2085526963718083
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Monday",
+            "afternoon"
+        ],
+        "support": 0.019058136404401512,
+        "confidence": 0.058624327460702605,
+        "lift": 1.2085526963718083
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Monday",
+            "Traffic"
+        ],
+        "support": 0.019058136404401512,
+        "confidence": 0.05716401866034368,
+        "lift": 1.2021615800224306
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Monday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.33649755651654184,
+        "lift": 1.0350929662984287
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "Monday"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.15830562860781686,
+        "lift": 1.0828581098343808
+    },
+    {
+        "antecedents": [
+            "Monday",
+            "Traffic"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.3451496574107465,
+        "lift": 1.1020022648187944
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Monday",
+            "Traffic"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.05240134028294862,
+        "lift": 1.1020022648187944
+    },
+    {
+        "antecedents": [
+            "Monday"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.11226452717761043,
+        "lift": 1.0828581098343808
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "Monday"
+        ],
+        "support": 0.016412220939943035,
+        "confidence": 0.050485283257727616,
+        "lift": 1.0350929662984287
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.014659709206516875,
+        "confidence": 0.3658421773365286,
+        "lift": 1.097327073762374
+    },
+    {
+        "antecedents": [
+            "Saturday",
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.014659709206516875,
+        "confidence": 0.35084335371609143,
+        "lift": 1.079221767502569
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Saturday",
+            "afternoon"
+        ],
+        "support": 0.014659709206516875,
+        "confidence": 0.04509441924253614,
+        "lift": 1.0792217675025693
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Saturday",
+            "Traffic"
+        ],
+        "support": 0.014659709206516875,
+        "confidence": 0.04397113510232843,
+        "lift": 1.097327073762374
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Sunday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.010918045212059064,
+        "confidence": 0.3691014492753623,
+        "lift": 1.1071031126140845
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "Sunday"
+        ],
+        "support": 0.010918045212059064,
+        "confidence": 0.03274818308533456,
+        "lift": 1.1071031126140845
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.16494724348858136,
+        "lift": 1.1085247810926264
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.4246667338235787,
+        "lift": 1.3063082946342424
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.41914957080833853,
+        "lift": 1.2572201908277474
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.0650488882488183,
+        "lift": 1.2572201908277474
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon",
+            "Thursday"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.06671062348348981,
+        "lift": 1.3063082946342424
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "support": 0.021686904004540753,
+        "confidence": 0.14574642173923064,
+        "lift": 1.1085247810926266
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "Thursday"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.16007542301394334,
+        "lift": 1.075783805184505
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Thursday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.3483926707224882,
+        "lift": 1.0716832737447959
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.3207503397076857,
+        "lift": 1.024099526712327
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Traffic",
+            "Thursday"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.05298716657176646,
+        "lift": 1.024099526712327
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "Thursday"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.0510496887857369,
+        "lift": 1.0716832737447959
+    },
+    {
+        "antecedents": [
+            "Thursday"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.016595703088158886,
+        "confidence": 0.1115311037868486,
+        "lift": 1.075783805184505
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.40477489768076397,
+        "lift": 1.2451194411657738
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.4089311556750052,
+        "lift": 1.2265705165381826
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.1547872132302114,
+        "lift": 1.0510243541168294
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.13818639094592708,
+        "lift": 1.0510243541168296
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.061042160649717375,
+        "lift": 1.2265705165381826
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "Tuesday",
+            "afternoon"
+        ],
+        "support": 0.020351085374072087,
+        "confidence": 0.06260154024686149,
+        "lift": 1.2451194411657736
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Tuesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.34702185402085417,
+        "lift": 1.0674665336869047
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "Tuesday"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.16073702839941117,
+        "lift": 1.0914243362266058
+    },
+    {
+        "antecedents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.33484942457446076,
+        "lift": 1.0691154295865066
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Tuesday",
+            "Traffic"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.05320616705356752,
+        "lift": 1.0691154295865066
+    },
+    {
+        "antecedents": [
+            "Tuesday"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.11315262447021564,
+        "lift": 1.0914243362266058
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "Tuesday"
+        ],
+        "support": 0.01666429454543584,
+        "confidence": 0.05126068150648803,
+        "lift": 1.0674665336869047
+    },
+    {
+        "antecedents": [
+            "afternoon",
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.416961481236568,
+        "lift": 1.282606331271024
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "consequents": [
+            "afternoon"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.41729261109824295,
+        "lift": 1.2516503241174382
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.16447771705815606,
+        "lift": 1.0954467669345074
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic",
+            "afternoon"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.14402695294655093,
+        "lift": 1.0954467669345074
+    },
+    {
+        "antecedents": [
+            "afternoon"
+        ],
+        "consequents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.06486372497081107,
+        "lift": 1.251650324117438
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "afternoon",
+            "Wednesday"
+        ],
+        "support": 0.021625171692991496,
+        "confidence": 0.0665207300348138,
+        "lift": 1.282606331271024
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Wednesday"
+        ],
+        "consequents": [
+            "Traffic"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.34973774069771535,
+        "lift": 1.0758208148459847
+    },
+    {
+        "antecedents": [
+            "evening",
+            "Traffic"
+        ],
+        "consequents": [
+            "Wednesday"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.1643262376155742,
+        "lift": 1.0944378906648138
+    },
+    {
+        "antecedents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.32874491247807813,
+        "lift": 1.0496247941146548
+    },
+    {
+        "antecedents": [
+            "evening"
+        ],
+        "consequents": [
+            "Traffic",
+            "Wednesday"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.05439424466733827,
+        "lift": 1.0496247941146548
+    },
+    {
+        "antecedents": [
+            "Wednesday"
+        ],
+        "consequents": [
+            "evening",
+            "Traffic"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.11346505253540429,
+        "lift": 1.0944378906648138
+    },
+    {
+        "antecedents": [
+            "Traffic"
+        ],
+        "consequents": [
+            "evening",
+            "Wednesday"
+        ],
+        "support": 0.01703640320116331,
+        "confidence": 0.05240531701656293,
+        "lift": 1.0758208148459847
+    }
+]

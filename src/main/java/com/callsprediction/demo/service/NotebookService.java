@@ -75,6 +75,7 @@ public class NotebookService {
             jobRepository.save(job);
 
         } catch (Exception e) {
+            System.out.println("Failed to execute");
             job.setStatus("FAILED");
             jobRepository.save(job);
             e.printStackTrace();
@@ -82,19 +83,26 @@ public class NotebookService {
     }
 
     private boolean runPythonNotebook(String notebookPath, String outputNotebookPath, Long jobId) {
-        String pythonCommand = "python3 src/python/run_notebook.py" + " " + notebookPath + " " + outputNotebookPath + " " +  jobId.toString();
-
         try {
-            Process process = Runtime.getRuntime().exec(pythonCommand);
+            ProcessBuilder builder = new ProcessBuilder(
+                    "/Users/mikeowino/Developer/Projects/Call-Prediction Ravi/Call-Prediction/venv/bin/python",
+                    "src/python/run_notebook.py",
+                    notebookPath,
+                    outputNotebookPath,
+                    jobId.toString()
+            );
 
-            // stdout
-            try (BufferedReader in = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
-                in.lines().forEach(System.out::println);
-            }
+            // Set working directory (optional but can help if script uses relative paths)
+            builder.directory(new File(System.getProperty("user.dir")));
 
-            // stderr
-            try (BufferedReader err = new BufferedReader(new InputStreamReader(process.getErrorStream()))) {
-                err.lines().forEach(System.err::println);
+            // Combine stderr and stdout
+            builder.redirectErrorStream(true);
+
+            Process process = builder.start();
+
+            // Read output
+            try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
+                reader.lines().forEach(System.out::println);
             }
 
             int exitCode = process.waitFor();
@@ -105,6 +113,7 @@ public class NotebookService {
             return false;
         }
     }
+
 
 
 
