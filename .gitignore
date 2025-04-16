@@ -20,4 +20,4 @@ target/
 .DS_Store
 
 # Ignore raw data files
-src/data/
+src/data/911.csv
