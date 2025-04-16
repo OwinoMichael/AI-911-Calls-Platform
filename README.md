@@ -57,6 +57,56 @@ GET    /?status={status}      → Filter jobs by status
 
 ---
 
+## 📁 Dataset
+
+This project uses the **MontcoAlert 911 Calls** dataset, which includes emergency call data useful for visualization and feature engineering to inform city/council decisions.
+
+> ⚠️ The dataset is too large for GitHub (>100MB). It is not committed to the repository.
+
+### 🔗 Download Instructions
+
+You can download the dataset from Kaggle:
+
+📎 [MontcoAlert 911 Dataset on Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert/data)
+
+After downloading:
+
+1. Create the `src/data` directory:
+   ```bash
+   mkdir -p src/data
+   ```
+
+2. Move the dataset file:
+   ```bash
+   mv ~/Downloads/911.csv src/data/
+   ```
+
+## 📂 Project Structure
+
+```
+Call-Prediction/
+├── src/
+│   ├── main/java/... (Spring Boot App)
+│   ├── data/              # Large CSVs (excluded)
+│   ├── output/            # Notebook results (images, JSONs)
+│   └── python/
+│       └── run_notebook.py
+├── requirements.txt       # Python dependencies
+├── target/                # Java build output (excluded)
+├── venv/                  # Python virtualenv (excluded)
+└── README.md
+```
+
+## 🛡️ .gitignore
+
+To prevent unnecessary or large files from being committed:
+
+```
+venv/
+target/
+src/data/
+```
+
 ## 📁 Python Notebook Integration
 
 We use a lightweight Python runner (`run_notebook.py`) to execute parameterized notebooks using [Papermill](https://papermill.readthedocs.io/).
