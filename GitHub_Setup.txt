@@ -1,0 +1,31 @@
+# Setting Up GitHub Secrets for Deployment
+
+To securely deploy to your Digital Ocean droplet, you need to add the following secrets to your GitHub repository:
+
+1. **DROPLET_IP**: Your Digital Ocean droplet IP address
+   - Value: `165.22.231.145`
+
+2. **SSH_PRIVATE_KEY**: Your SSH private key for accessing the droplet
+   - This is the private part of the SSH key you added to Digital Ocean
+
+## How to Add These Secrets:
+
+1. Go to your GitHub repository
+2. Click on "Settings" tab
+3. In the left sidebar, click on "Secrets and variables" → "Actions"
+4. Click on "New repository secret"
+5. Add each secret:
+   - Name: `DROPLET_IP`
+   - Value: `165.22.231.145`
+   - Click "Add secret"
+
+   Then repeat for SSH_PRIVATE_KEY:
+   - Name: `SSH_PRIVATE_KEY`
+   - Value: *[Your entire SSH private key content, including BEGIN and END lines]*
+   - Click "Add secret"
+
+## Important Security Notes:
+
+- Never commit your SSH private key to your Git repository
+- Make sure your private key has proper permissions (chmod 600)
+- Consider using a deployment key specific for this purpose rather than your personal key
