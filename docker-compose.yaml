@@ -1,0 +1,42 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - SPRING_APPLICATION_NAME=CallPrediction-Backend
+      - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/calls_prediction?useSSL=false&allowPublicKeyRetrieval=true
+      - SPRING_DATASOURCE_USERNAME=root
+      - SPRING_DATASOURCE_PASSWORD=Mike2000
+      - SPRING_DATASOURCE_DRIVER_CLASS_NAME=com.mysql.cj.jdbc.Driver
+      - SPRING_JPA_HIBERNATE_DDL_AUTO=update
+      - SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT=org.hibernate.dialect.MySQL8Dialect
+      - SPRING_DATASOURCE_INITIALIZATION_MODE=always
+      - SPRING_DATASOURCE_HIKARI_INITIALIZATION_FAIL_TIMEOUT=60000
+    restart: on-failure
+    depends_on:
+      - db
+    networks:
+      - app-network
+
+  db:
+    image: mysql:8.0
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_DATABASE=calls_prediction
+      - MYSQL_ROOT_PASSWORD=Mike2000
+    ports:
+      - "3307:3306"  # Changed from 3306:3306 to 3307:3306
+    volumes:
+      - mysql-data:/var/lib/mysql
+    restart: always
+    networks:
+      - app-network
+
+volumes:
+  mysql-data:
+
+networks:
+  app-network:
