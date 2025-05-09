@@ -49,5 +49,11 @@ jobs:
             # Print container status
             docker ps
             
-            # Follow logs briefly to check for startup issues
-            docker-compose logs -f --tail=50 app
+            # Show logs without following (to avoid timeout)
+            docker-compose logs --tail=50 app
+            
+            # Check if containers are running
+            echo "Checking container status:"
+            docker ps
+            
+            echo "Deployment completed successfully!"
