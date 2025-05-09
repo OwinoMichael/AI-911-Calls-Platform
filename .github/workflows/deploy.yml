@@ -29,10 +29,12 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /root/Call-Prediction
-            mkdir -p src/data
-            # Check if the 911.csv file exists and is in the expected location
+            # Directory already exists, but check if data file is there
             if [ ! -f "src/data/911.csv" ]; then
               echo "Warning: 911.csv file not found in expected location"
+              echo "Make sure the 911.csv file is properly placed in /root/Call-Prediction/src/data/"
+            else
+              echo "Found 911.csv file in expected location"
             fi
             
             # Make wait-for-it.sh executable
@@ -47,5 +49,11 @@ jobs:
             # Print container status
             docker ps
             
-            # Follow logs briefly to check for startup issues
-            docker-compose logs -f --tail=50 app
+            # Show logs without following (to avoid timeout)
+            docker-compose logs --tail=50 app
+            
+            # Check if containers are running
+            echo "Checking container status:"
+            docker ps
+            
+            echo "Deployment completed successfully!"
