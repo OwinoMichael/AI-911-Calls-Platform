@@ -56,4 +56,6 @@ jobs:
             echo "Checking container status:"
             docker ps
             
+
             echo "Deployment completed successfully!"
+
